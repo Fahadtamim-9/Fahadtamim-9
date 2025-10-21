@@ -80,13 +80,6 @@ I craft digital products with a focus on **clean UI**, **smooth UX**, and **effi
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2500&pause=2000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Extraordinary." />
 </div>
 
----
-
-<!-- 🌈 Signature Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=2000&color=00E5FF&center=true&vCenter=true&width=500&lines=—+Fahad+Tamim+🚀;Crafting+Tomorrow's+Web,+Today." />
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
