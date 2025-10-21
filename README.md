@@ -1,30 +1,60 @@
-# 👋 Hi, I'm Fahad Tamim
-🎓 Computer Science Student | 💻 Web Developer | 🚀 Tech Enthusiast  
-
-I’m a passionate web developer focused on building modern, responsive, and user-friendly web applications.  
-Currently learning **React.js, Node.js, and APIs** to become a full-stack developer.
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Fahad Tamim</span></h1>
+<h3 align="center">💻 Web Developer | 🎓 Computer Science Student | 🚀 Tech Enthusiast</h3>
 
 ---
 
-### 🧠 About Me
-- 🏫 BS Computer Science Student  
-- 💻 Passionate about Frontend and Backend Development  
-- 🌱 Currently learning: **React.js & REST APIs**
-- ⚙️ Tech Stack: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `React`, `Node.js`, `Express`, `MongoDB`
-- 🤝 Open to collaboration on web projects and open-source contributions  
+### 👨‍💻 About Me  
+I'm a passionate **Computer Science student** from Pakistan, currently exploring the world of **Full-Stack Web Development** and modern technologies.  
+I love crafting clean, responsive, and user-friendly web experiences — from intuitive front-ends to robust back-ends.  
+
+- 🎓 BS Computer Science | University Student  
+- 🌱 Currently learning **React.js**, **Node.js**, and **API Integration**  
+- 🧠 Interests: Web Development, UI Design, and Software Engineering  
+- 🤝 Open to collaboration on creative web projects  
+- ⚡ Fun fact: I enjoy making aesthetic UI layouts and learning through projects  
 
 ---
 
 ### 🛠️ Languages & Tools
-HTML5 | CSS3 | JavaScript | React | Node.js | Express | MongoDB | Git | GitHub | Bootstrap | Tailwind  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR_LINK/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/fahadtamim-9)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahad-tamim-73590331b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fahadtamim@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Fahadtamim-9">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ **Fun Fact:** I love solving coding challenges and learning new technologies every day!
+### 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fahadtamim-9&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fahadtamim-9&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 My Tech Journey  
+> "Turning ideas into interactive experiences — one line of code at a time."  
+I’m continuously learning and evolving as a developer — building projects, exploring frameworks, and improving every day.
+
+---
+
+### 💬 Let’s Collaborate  
+If you’re working on **frontend**, **backend**, or **creative web projects**, feel free to reach out — I’d love to collaborate!
+
+---
+
+⭐ **"Keep coding, keep growing."**
