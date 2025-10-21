@@ -17,7 +17,7 @@ Hello! I’m Fahad, a enthusiastic BSCS student at UET-Peshawar and an aspiring 
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,Js,react,nodejs,git,github,vscode" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,git,github,vscode" /> 
 </p>
 
 ---
