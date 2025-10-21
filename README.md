@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Fahad Tamim</span></h1>
-<h3 align="center">💻 Web Developer | 🎓 Computer Science Student | 🚀 Tech Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">M Fahad Tamim</span></h1>
+<h3 align="center">💻Frontend-Developer | 🎓 CS Major| 🚀 Tech Enthusiast </h3>
 
 ---
 
@@ -10,7 +10,7 @@ I love crafting clean, responsive, and user-friendly web experiences — from in
 
 - 🎓 BS Computer Science | University Student  
 - 🌱 Currently learning **React.js**, **Node.js**, and **API Integration**  
-- 🧠 Interests: Web Development, UI Design, and Software Engineering  
+- 🧠 Interests: Web Development, UI Design, and Photoghraphy 
 - 🤝 Open to collaboration on creative web projects  
 - ⚡ Fun fact: I enjoy making aesthetic UI layouts and learning through projects  
 
@@ -18,7 +18,7 @@ I love crafting clean, responsive, and user-friendly web experiences — from in
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,Js,react,nodejs,git,github,vscode" /> 
 </p>
 
 ---
@@ -29,7 +29,7 @@ I love crafting clean, responsive, and user-friendly web experiences — from in
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:fahadtamim@example.com">
+  <a href="mailto:mfahadtamim04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -55,8 +55,4 @@ I’m continuously learning and evolving as a developer — building projects, e
 ---
 
 ### 💬 Let’s Collaborate  
-If you’re working on **frontend**, **backend**, or **creative web projects**, feel free to reach out — I’d love to collaborate!
-
----
-
-⭐ **"Keep coding, keep growing."**
+If you’re working on **frontend** or **creative web projects**, feel free to reach out — I’d love to collaborate
