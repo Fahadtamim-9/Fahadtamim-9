@@ -1,41 +1,40 @@
-<!-- ──────────────────────────────── -->
-<!-- 🚀 FAHAD TAMIM | GITHUB PROFILE -->
-<!-- ──────────────────────────────── -->
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">M Fahad Tamim</span></h1>
+<h3 align="center">💻Frontend-Developer | 🎓 CS Major | 🚀 Tech Enthusiast </h3>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=2800&pause=1200&color=00AEEF&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Fahad+Tamim!;Web+Developer+%7C+Tech+Explorer;Building+Clean+%26+Modern+Web+Apps" alt="Typing SVG" />
-</h1>
+---
 
+### 👨‍💻 About Me  
+Hello! I’m Fahad, a enthusiastic BSCS student at UET-Peshawar and an aspiring web designer currently expanding my expertise at SMIT. My journey in tech has led me to specialize in HTML5, CSS3, and Bootstrap, JavaScript & currently working on React where I blend creativity with functionality to craft visually stunning and user-friendly websites.
+
+- 🎓 BS Computer Science 
+- 🌱 Currently learning **React.js**, **Node.js**, and **API Integration**  
+- 🧠 Interests: Web Development, UI Design, and Photoghraphy 
+- 🤝 Open to collaboration on creative web projects  
+- ⚡ Fun fact: I enjoy making aesthetic UI layouts and learning through projects  
+
+---
+
+### 🛠️ Languages & Tools
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahad-tamim-73590331b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
-  </a>
-  &nbsp;
-  <a href="mailto:fahadtamim@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EE463A?style=for-the-badge&logo=gmail&logoColor=white" height="36" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Fahadtamim-9" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,git,github,vscode" /> 
 </p>
 
 ---
 
-### 🧠 About Me
-> Passion-driven developer crafting **modern, scalable, and human-centered** web applications.  
-> I believe in **clarity, minimalism, and performance** — writing code that feels elegant inside and out.
-
-- 🎓 CS Student exploring **Full-Stack Development**
-- ⚡ Focused on **React**, **Node.js**, **Express**, **MongoDB**
-- 🎨 Aiming for that perfect blend of **design + logic**
-- 🌍 Always learning. Always evolving.
-
----
-
-### 🧰 Toolbox
+### 🌐 Connect with Me  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,vscode" height="45" />
+  <a href="https://www.linkedin.com/in/fahad-tamim-73590331b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mfahadtamim04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Fahadtamim-9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" />
+  </a>
 </p>
 
 ---
@@ -47,19 +46,11 @@
 </p>
 
 ---
-
-### 🪄 Philosophy
-> *“Design like it matters. Code like it breathes.”*  
-> Every line should carry meaning — minimal, efficient, and timeless.
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=2000&color=00AEEF&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Beautiful." alt="Signature Typing"/>
-</p>
+### 🚀 My Tech Journey  
+> "Turning ideas into interactive experiences — one line of code at a time."  
+I’m continuously learning and evolving as a developer — building projects, exploring frameworks, and improving every day.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00AEEF&height=80&section=footer"/>
-</p>
+### 💬 Let’s Collaborate  
+If you’re working on **frontend** or **creative web projects**, feel free to reach out — I’d love to collaborate
