@@ -1,69 +1,59 @@
-<!-- ─────────────────────────────────────────── -->
-<!-- 🌌 FAHAD TAMIM | The Digital Architect -->
-<!-- ─────────────────────────────────────────── -->
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">M Fahad Tamim</span></h1>
+<h3 align="center">💻Frontend-Developer | 🎓 CS Major | 🚀 Tech Enthusiast </h3>
 
-<h1 align="center">
-  <b>FAHAD TAMIM</b>  
-</h1>
+---
 
-<h3 align="center">The Digital Architect</h3>
+### 👨‍💻 About Me  
+Hello! I’m Fahad, a enthusiastic BSCS student at UET-Peshawar and an aspiring web designer currently expanding my expertise at SMIT. My journey in tech has led me to specialize in HTML5, CSS3, and Bootstrap, JavaScript & currently working on React where I blend creativity with functionality to craft visually stunning and user-friendly websites.
 
+- 🎓 BS Computer Science 
+- 🌱 Currently learning **React.js**, **Node.js**, and **API Integration**  
+- 🧠 Interests: Web Development, UI Design, and Photoghraphy 
+- 🤝 Open to collaboration on creative web projects  
+- ⚡ Fun fact: I enjoy making aesthetic UI layouts and learning through projects  
+
+---
+
+### 🛠️ Languages & Tools
 <p align="center">
-  <i>Crafting Tomorrow’s Web, Today.</i>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,git,github,vscode" /> 
 </p>
 
 ---
 
-### 🧠 About Me
-I’m **Fahad Tamim**, a Computer Science student & passionate **Full-Stack Web Developer** from Pakistan 🇵🇰.  
-I design, build, and scale web experiences with a focus on **clean UI**, **fast performance**, and **modern architecture**.
-
-- 💻 Working with: `React`, `Node.js`, `Express`, `MongoDB`
-- 🎨 Passionate about: UI/UX design, animations, and modern frontend workflows
-- 🚀 Currently exploring: backend optimization & secure API design
-- 🌱 Always learning something new every day
-
----
-
-### 🛠️ Tech Stack
+### 🌐 Connect with Me  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,vscode&perline=8" />
+  <a href="https://www.linkedin.com/in/fahad-tamim-73590331b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mfahadtamim04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Fahadtamim-9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Overview
+### 📈 GitHub Pulse
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahadtamim-9&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fahadtamim-9&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahadtamim-9&show_icons=true&hide_border=true&theme=transparent&title_color=00AEEF&icon_color=00AEEF&text_color=9ca3af" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahadtamim-9&theme=transparent&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF&hide_border=true" width="48%" /> 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadtamim-9&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=1F51FF&area=true&hide_border=true" width="95%"/>
 </p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/fahad-tamim-73590331b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
-  </a>
-  &nbsp;
-  <a href="mailto:fahadtamim@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Fahadtamim-9" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38"/>
-  </a>
 </p>
 
 ---
+### 🚀 My Tech Journey  
+> "Turning ideas into interactive experiences — one line of code at a time."  
+I’m continuously learning and evolving as a developer — building projects, exploring frameworks, and improving every day.
 
-### 💬 Quote
-> “Simplicity is the ultimate sophistication.” — Leonardo da Vinci  
+---
 
-<p align="center">
-  <i>Minimal code. Maximal impact.</i>
-</p>
+### 💬 Let’s Collaborate  
+If you’re working on **frontend** or **creative web projects**, feel free to reach out — I’d love to collaborate
