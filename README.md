@@ -18,7 +18,7 @@ I love crafting clean, responsive, and user-friendly web experiences — from in
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,git,github,vscode" /> 
 </p>
 
 ---
