@@ -1,14 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">M Fahad Tamim</span></h1>
-<h3 align="center">💻Frontend-Developer | 🎓 CS Major| 🚀 Tech Enthusiast </h3>
+<h3 align="center">💻Frontend-Developer | 🎓 CS Major | 🚀 Tech Enthusiast </h3>
 
 ---
 
 ### 👨‍💻 About Me  
-I'm a passionate **Computer Science student** from Pakistan, currently exploring the world of **Full-Stack Web Development** and modern technologies.  
-I love crafting clean, responsive, and user-friendly web experiences — from intuitive front-ends to robust back-ends.  
+Hello! I’m Fahad, a enthusiastic BSCS student at UET-Peshawar and an aspiring web designer currently expanding my expertise at SMIT. My journey in tech has led me to specialize in HTML5, CSS3, and Bootstrap, JavaScript & currently working on React where I blend creativity with functionality to craft visually stunning and user-friendly websites.
 
-- 🎓 BS Computer Science | University Student  
+- 🎓 BS Computer Science 
 - 🌱 Currently learning **React.js**, **Node.js**, and **API Integration**  
 - 🧠 Interests: Web Development, UI Design, and Photoghraphy 
 - 🤝 Open to collaboration on creative web projects  
