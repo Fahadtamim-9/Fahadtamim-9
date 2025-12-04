@@ -35,20 +35,7 @@ Hello! I’m Fahad, an enthusiastic BSCS student at UET-Peshawar and an aspiring
   <a href="https://github.com/Fahadtamim-9" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" />
   </a>
-</p>
-
----
-
-### 📈 GitHub Pulse  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahadtamim-9&show_icons=true&hide_border=true&theme=transparent&title_color=00AEEF&icon_color=00AEEF&text_color=9ca3af" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahadtamim-9&theme=transparent&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF&hide_border=true" width="48%" /> 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadtamim-9&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=1F51FF&area=true&hide_border=true" width="95%"/>
-</p>
-</p>
-
----
+</p> 
 
 ### 🚀 My Tech Journey  
 > "Turning ideas into interactive experiences — one line of code at a time."  
