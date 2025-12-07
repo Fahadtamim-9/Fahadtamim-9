@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center"> <span style="color:#0078ff;">M Fahad Tamim</span></h1>
-<h3 align="center">💻 Frontend Developer | 🎓 CS Major | 🚀 Tech Enthusiast </h3>
+<h3 align="center">💻 Frontend Developer | 🎓 CS Major | 🚀 Tech Savvy </h3>
 
 ---
 
